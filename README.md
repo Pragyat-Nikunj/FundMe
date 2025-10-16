@@ -2,6 +2,10 @@
 
 A secure, gas-efficient Ethereum smart contract for decentralized crowdfunding, built with [Foundry](https://book.getfoundry.sh/) and Chainlink price feeds. This project demonstrates best practices in Solidity development, automated testing, and deployment scripting.
 
+## Deployed Contract
+
+- **Sepolia:** [Etherscan](https://sepolia.etherscan.io/address/0x23f21e45c9642012db04977fe63d0b5830477fc0#code)
+
 ## Features
 
 - **FundMe Contract:**  
